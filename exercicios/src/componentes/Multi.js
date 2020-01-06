@@ -24,5 +24,5 @@ const MegaSena = props => {
     return <Text style={Padrao.ex}>{numeros.join(', ')}</Text>
 }
 
-export default MegaSena;
-export { Inverter };
+export { MegaSena };
+export default Inverter;
